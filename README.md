@@ -7,3 +7,6 @@
 <br>
 
 - The application covers key aspects of TypeScript such as type annotations, interfaces, classes, and other language features relevant to building robust and statically-typed applications. Through this hands-on project, I haave further enhanced my skills and proficiency in leveraging TypeScript for real-world software development tasks.
+
+## Author
+Samuel Senerwa
