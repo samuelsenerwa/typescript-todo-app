@@ -1,2 +1,2 @@
-# typescript-todo-app
-It is a simple to do app using typescript to ensure proper mastery of the content I learnt .
+# Typescript-todo-app
+This project is a straightforward to-do application implemented in TypeScript. Its primary purpose is to solidify and reinforce the understanding of TypeScript concepts gained during the learning process. By creating a simple to-do app, the developer aims to apply and showcase their mastery of TypeScript features, providing a practical demonstration of knowledge acquired in the course of their learning journey. The application likely covers key aspects of TypeScript such as type annotations, interfaces, classes, and other language features relevant to building robust and statically-typed applications. Through this hands-on project, the developer further enhances their skills and proficiency in leveraging TypeScript for real-world software development tasks.
